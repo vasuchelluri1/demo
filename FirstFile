@@ -1,0 +1,2 @@
+Connect to remote resources
+You can configure provisioners to connect to remote resources over SSH or using WinRM. Add a connection block to either the provisioner block or to the resource block. All provisioners in the configuration can use connection settings defined in the resource block. Connection settings defined in the provisioner block are specific to that provisioner. Refer to the connection block reference for details.
